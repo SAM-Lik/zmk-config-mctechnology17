@@ -83,11 +83,11 @@
 //                     |      |      |      |        |  |       |      |       |       |
             display-name = "Mou";
             bindings = <
-&trans    &trans &trans         &msc SCRL_UP    &trans           &trans                       &trans      &mkp MB4    &trans    &mkp MB5   &trans    &trans
-&trans    &trans &msc SCRL_LEFT &mmv MOVE_UP    &msc SCRL_RIGHT  &trans                       &trans      &mkp LCLK    &mkp MCLK    &mkp RCLK   &trans    &trans
-&trans    &trans &mmv MOVE_LEFT &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &trans                       &trans      &trans    &kp UP_ARROW    &trans   &trans    &trans
+&trans    &trans &trans         &msc SCRL_UP    &trans           &trans                          &trans      &mkp MB4          &trans            &mkp MB5          &trans    &trans
+&trans    &trans &msc SCRL_LEFT &mmv MOVE_UP    &msc SCRL_RIGHT  &trans                          &trans      &mkp LCLK         &trans            &mkp RCLK         &trans    &trans
+&trans    &trans &mmv MOVE_LEFT &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &trans                          &trans      &trans            &kp UP_ARROW      &trans            &trans    &trans
 &trans    &trans &trans         &msc SCRL_DOWN  &trans           &trans    &trans   &kp K_APP    &trans      &kp LEFT_ARROW    &kp DOWN_ARROW    &kp RIGHT_ARROW   &trans    &trans
-                                &trans          &trans           &trans    &trans   &trans    &trans      &trans    &to 0
+                                &trans          &trans           &trans    &trans   &trans       &trans      &trans            &to 0
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
