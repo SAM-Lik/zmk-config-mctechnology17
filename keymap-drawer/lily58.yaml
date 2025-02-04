@@ -121,27 +121,27 @@ layers:
   Rai:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - INSERT
+  - Home
+  - PAGE UP
+  - PRINTSCREEN
+  - {t: ▽, type: trans}
+  - KP EQUAL
+  - KP DIVIDE
+  - KP ASTERISK
+  - KP MINUS
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - DELETE
+  - End
+  - PAGE DOWN
+  - Pause Break
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '`'
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
-  - '6'
-  - '7'
-  - '8'
-  - '9'
-  - '0'
+  - KP 7
+  - KP 8
+  - KP 9
+  - KP PLUS
   - {t: ▽, type: trans}
   - F1
   - F2
@@ -150,10 +150,10 @@ layers:
   - F5
   - F6
   - {t: ▽, type: trans}
-  - ←
-  - ↓
-  - ↑
-  - →
+  - KP 4
+  - KP 5
+  - KP 6
+  - KP ENTER
   - {t: ▽, type: trans}
   - F7
   - F8
@@ -163,11 +163,11 @@ layers:
   - F12
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - KP PLUS
-  - '-'
-  - '='
-  - '['
-  - ']'
+  - {t: ▽, type: trans}
+  - KP 1
+  - KP 2
+  - KP 3
+  - KP 0
   - \
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
