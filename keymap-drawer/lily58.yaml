@@ -32,9 +32,9 @@ layers:
   - F
   - G
   - H
-  - J
-  - K
-  - L
+  - {t: Home, h: J}
+  - {t: UP ARROW, h: K}
+  - {t: End, h: L}
   - ;
   - ''''
   - $$mdi:apple-keyboard-shift$$
@@ -46,9 +46,9 @@ layers:
   - '['
   - ']'
   - N
-  - M
-  - ','
-  - .
+  - {t: LEFT ARROW, h: M}
+  - {t: DOWN ARROW, h: ','}
+  - {t: RIGHT ARROW, h: .}
   - /
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-option$$
