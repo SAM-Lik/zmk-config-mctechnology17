@@ -101,10 +101,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - KP EQUAL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - +
   - '-'
   - KP PLUS
   - '{'
@@ -125,7 +125,7 @@ layers:
   - Home
   - PAGE UP
   - PRINTSCREEN
-  - {t: ▽, type: trans}
+  - KP NUMLOCK
   - KP EQUAL
   - KP DIVIDE
   - KP ASTERISK
@@ -137,7 +137,7 @@ layers:
   - End
   - PAGE DOWN
   - Pause Break
-  - {t: ▽, type: trans}
+  - '-'
   - KP 7
   - KP 8
   - KP 9
@@ -149,7 +149,7 @@ layers:
   - F4
   - F5
   - F6
-  - {t: ▽, type: trans}
+  - +
   - KP 4
   - KP 5
   - KP 6
@@ -163,7 +163,7 @@ layers:
   - F12
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '='
   - KP 1
   - KP 2
   - KP 3
